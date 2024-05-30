@@ -1,5 +1,5 @@
 body {
-    background-color:#50D9D9;
+    background-color:#0974f1;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -38,11 +38,11 @@ label{
 }
 
 .cat {
-    background-color: #ED054E;
+    background-color: #e8b595;
     margin: 0.5em;
     padding: 1em;
     border-radius: 1em;
-    border: 1px solid #161D12;
+    border: 4px solid #161D12;
     flex : 1;
 }
 
