@@ -47,7 +47,7 @@ label{
 }
 
 
-@media (min-width : 960px) {
+@media (min-width : 1000px) {
 
     .cats{
         display: flex;
