@@ -53,14 +53,6 @@ label{
         display: flex;
     }
 
-    .container{
-        flex-direction: column;
-
-    }
-
-    .section{
-        flex: 1 1 100%;
-    }
 
 }
 
